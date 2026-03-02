@@ -1,4 +1,4 @@
-# nestjs-auth-boilerplate
+# nestjs-passwordless-auth
 
 Modern authentication boilerplate for NestJS with OAuth 2.0, passwordless magic link login, JWT, cookies, PostgreSQL, and Docker.
 
